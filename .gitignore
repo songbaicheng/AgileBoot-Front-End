@@ -8,6 +8,7 @@ report.html
 
 yarn.lock
 npm-debug.log*
+pnpm-lock.yaml
 .pnpm-error.log*
 .pnpm-debug.log
 tests/**/coverage/
